@@ -34,4 +34,4 @@ Este projeto utiliza diversos efeitos de CSS para melhorar a experiência do usu
 
 ## 🔗 Site publicado
 
-Acesse o site pelo GitHub Pages: [Link para o site]()
+Acesse o site pelo GitHub Pages: [Link para o site](https://sadghostofc.github.io/Check-Point-03---Layout-Individual-Flexbox---Transforma--es/)
